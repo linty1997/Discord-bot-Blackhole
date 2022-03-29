@@ -89,23 +89,23 @@ async def on_disconnect():
     print("機器人斷開連結.")
 
 
-@bot.slash_command(guild_ids=[925823352927567933])
-@commands.has_role(933967106079330364)
+@bot.slash_command(guild_ids=[])
+@commands.has_role()
 async def reload(ctx, extension):
     bot.reload_extension(f"cmds.{extension}")
     await ctx.response.send_message(f"已重新載入 {extension}", ephemeral=True)
 
 
-@bot.slash_command(guild_ids=[925823352927567933])
-@commands.has_role(933967106079330364)
+@bot.slash_command(guild_ids=[])
+@commands.has_role()
 async def load(self, ctx, extension):
     if ctx.author.id == 215405363518898176:
         self.bot.load_extension(f"cmds.{extension}")
         await ctx.response.send_message(f"已載入 {extension} 模組.", ephemeral=True)
 
 
-@bot.slash_command(guild_ids=[925823352927567933])
-@commands.has_role(933967106079330364)
+@bot.slash_command(guild_ids=[])
+@commands.has_role()
 async def unload(self, ctx, extension):
     if ctx.author.id == 215405363518898176:
         self.bot.unload_extension(f"cmds.{extension}")
