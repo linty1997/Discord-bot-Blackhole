@@ -1,0 +1,5 @@
+emojis~=0.6.0
+pandas~=1.4.1
+PyMySQL~=1.0.2
+openpyxl==3.0.9
+py-cord==2.0.0-b5
