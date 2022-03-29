@@ -3,7 +3,7 @@
  文檔 : [Docs](https://docs.wormhole.wiserver.tw/black-hole-bot/introduce "Docs")  
  邀請連結 : [Click me to invite the bot](https://discord.com/api/oauth2/authorize?client_id=958304389561462834&permissions=2147847168&scope=bot%20applications.commands "Click me to invite the bot")
  
-<img src="https://user-images.githubusercontent.com/40823034/160655387-ac94192d-c5bd-4490-ab55-fd35730ba750.gif" width="250" height="300"/><img src="https://user-images.githubusercontent.com/40823034/160660355-d60c93ee-941a-43f8-8ee1-bd1789356184.gif" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/40823034/160655387-ac94192d-c5bd-4490-ab55-fd35730ba750.gif" width="250" height="300"/><img src="https://user-images.githubusercontent.com/40823034/160660355-d60c93ee-941a-43f8-8ee1-bd1789356184.gif" width="300" height="300"/><img src="https://user-images.githubusercontent.com/40823034/160661065-f305902e-bde8-4b85-9c4b-b1a351db2377.gif" width="300" height="300"/>
 
 ------------
 
