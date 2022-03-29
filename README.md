@@ -24,10 +24,10 @@
 
 ## 相關指令
 > 以下指令僅限 MOD 使用 (需有管理訊息權限)
-- /add-botton 設置並添加一個按鈕.
-- /del-botton 刪除按鈕並清除已收集的資料.
-- /open-botton 開啟按鈕交互, 允許被點擊.
-- /close-botton 關閉按鈕交互, 禁止被點擊.
+- /add-button 設置並添加一個按鈕.
+- /del-button 刪除按鈕並清除已收集的資料.
+- /open-button 開啟按鈕交互, 允許被點擊.
+- /close-button 關閉按鈕交互, 禁止被點擊.
 - /open-edit 允許用戶多次提交以更改地址.
 - /close-edit 禁止用戶重複提交.
 - /edit_max_submit 設置提交最大上限, 達上限則無法繼續提交.(0 為不限)
