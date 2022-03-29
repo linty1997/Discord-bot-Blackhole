@@ -1,6 +1,6 @@
 # Discord Bot : black hole
- 協助各 NFT 項目收集錢包地址的機器人.
- 文檔 : [Docs](https://docs.wormhole.wiserver.tw/black-hole-bot/introduce "Docs")
+ 協助各 NFT 項目收集錢包地址的機器人.  
+ 文檔 : [Docs](https://docs.wormhole.wiserver.tw/black-hole-bot/introduce "Docs")  
  邀請連結 : [Click me to invite the bot](https://discord.com/api/oauth2/authorize?client_id=958304389561462834&permissions=2147847168&scope=bot%20applications.commands "Click me to invite the bot")
 
 ------------
@@ -40,12 +40,12 @@
 
 
 ## 代碼相關
-本機器人使用 `python` 撰寫, 運行於 `python-3.10` 並使用 `pycord` 套件調用 `Discord API` 達成各種操作.
+本機器人使用 `python` 撰寫, 運行於 `python-3.10` 並使用 `pycord` 套件調用 `Discord API` 達成各種操作.  
 可於 `cmds` 資料夾中查看主要功能代碼.
 
 ------------
 
 
 ## 聲明
-本人無法保證機器人能永久運作下去, 可能因 套件 或 Discord 官方的政策修改而在未來某一天無法使用.
+本人無法保證機器人能永久運作下去, 可能因 套件 或 Discord 官方的政策修改而在未來某一天無法使用.  
 如果在使用上發現任何 Bug 歡迎發 Issue.
